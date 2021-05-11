@@ -1,0 +1,26 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Release\RememberEachWord.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Release\RememberEachWord.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Release\RememberEachWord.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.Form1.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.RoundNameDialog.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.WordEditorField.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.WordsForm.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.exe
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Release\RememberEachWord.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Release\RememberEachWord.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Release\RememberEachWord.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.RoundNameDialog.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.WordEditorField.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.WordsForm.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\RememberEachWord\RememberEachWord\bin\Release\RememberEachWord.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WORKING PROJECTS\RememberEachWord\RememberEachWord\obj\Release\RememberEachWord.exe

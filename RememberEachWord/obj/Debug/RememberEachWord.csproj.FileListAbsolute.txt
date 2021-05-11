@@ -1,0 +1,12 @@
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Debug\RememberEachWord.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Debug\RememberEachWord.exe
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\bin\Debug\RememberEachWord.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.exe
+c:\users\andrew\documents\visual studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.Form1.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.RoundNameDialog.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.WordEditorField.resources
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\RememberEachWord\RememberEachWord\obj\Debug\RememberEachWord.WordsForm.resources
